@@ -1,0 +1,17 @@
+platform: Linux
+feeds:
+    CVE-Modified: 
+        META: https://nvd.nist.gov/feeds/json/cve/1.1/nvdcve-1.1-modified.meta
+        ZIP: https://nvd.nist.gov/feeds/json/cve/1.1/nvdcve-1.1-modified.json.zip
+    CVE-Recent:
+        META: https://nvd.nist.gov/feeds/json/cve/1.1/nvdcve-1.1-recent.meta
+        ZIP: https://nvd.nist.gov/feeds/json/cve/1.1/nvdcve-1.1-recent.json.zip
+    CVE-2020:
+        META: https://nvd.nist.gov/feeds/json/cve/1.1/nvdcve-1.1-2020.meta
+        ZIP:  https://nvd.nist.gov/feeds/json/cve/1.1/nvdcve-1.1-2020.json.zip  
+    CVE-2019:
+        META: https://nvd.nist.gov/feeds/json/cve/1.1/nvdcve-1.1-2019.meta
+        ZIP: https://nvd.nist.gov/feeds/json/cve/1.1/nvdcve-1.1-2019.json.zip
+    CVE-2018:
+        META: https://nvd.nist.gov/feeds/json/cve/1.1/nvdcve-1.1-2018.meta
+        ZIP: https://nvd.nist.gov/feeds/json/cve/1.1/nvdcve-1.1-2018.json.zip
